@@ -57,4 +57,4 @@ for i in range(0, len(firstlist)):
     multipliedlist.append(firstlist[i] * secondlist[i])
 print multipliedlist
 
-print ""
+print " "
